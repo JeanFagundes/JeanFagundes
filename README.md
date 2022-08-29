@@ -17,6 +17,16 @@ Skills: JavaScript / Typescript / Banco de dados relacionais
   [<img align="left" src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg' alt='MySQL' style="padding-right:10px;" width='60px'>](https://github.com/JeanFagundes)
   <br/>
    ### Ferramentas
+   
+   [<img align="left" src="https://img2.gratispng.com/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" style="padding-right:10px;" alt='Express' width='60px'>](https://www.npmjs.com/package/express)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
+
 
 
 ![JeanFagundes GitHubstats](https://github-readme-stats.vercel.app/api?username=JeanFagundes&theme=codeSTACKr&show_icons=true)
