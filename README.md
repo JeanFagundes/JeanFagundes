@@ -23,9 +23,8 @@ Skills: JavaScript / Typescript / Banco de dados relacionais
    [<img align="left" src="./imgs/prettier.svg.svg" style="padding-right:10px;" alt='Javascript' width='50px'>](https://github.com/JeanFagundes)
    [<img align="left" src="./imgs/prisma.svg.svg" style="padding-right:10px;" alt='Javascript' width='35px'>](https://github.com/JeanFagundes)
    [<img align="left" src="./imgs/vscode.svg.svg" style="padding-right:10px;" alt='Javascript' width='40px'>](https://github.com/JeanFagundes)
-   [<img align="left" src="./imgs/insomnia.svg" style="padding-right:10px;" alt='insomnia' width='40px'>](https://github.com/JeanFagundes)
+   [<img align="left" src="https://raw.githubusercontent.com/JeanFagundes/JeanFagundes/211b2c8cd5c61f454c14d3eb06179f76988554c6/imgs/insomnia.svg" style="padding-right:10px;" alt='insomnia' width='40px'>](https://github.com/JeanFagundes)
    [<img align="left" src="https://juristr.com/assets/images/categories/git.svg" style="padding-right:10px;" alt='Git' width='40px'>](https://github.com/JeanFagundes)
    [<img align="left" src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png" style="padding-right:10px;" alt='Scrum' width='40px'>](https://github.com/JeanFagundes)
-   
-   
+    
 ![JeanFagundes GitHubstats](https://github-readme-stats.vercel.app/api?username=JeanFagundes&theme=codeSTACKr&show_icons=true)
